@@ -75,7 +75,7 @@ com.example.crudp1
 └── ui.theme
 ⚙️ Como executar o projeto
 Clone o repositório:
-git clone https://github.com/SEU_USUARIO/SEU_REPO.git
+git clone https://github.com/Byelsantos11/Crud-Kotlin.git
 Abra no Android Studio
 Configure o Firebase:
 Adicione o google-services.json
