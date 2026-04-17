@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642492635607",
+    "project_id": "crud-kotlin-d0f22",
+    "storage_bucket": "crud-kotlin-d0f22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642492635607:android:999a229f3271aa327bd392",
+        "android_client_info": {
+          "package_name": "com.example.crudp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnLWFyJVq8KzY9V9SHVtXwPz4TJLNVNfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
